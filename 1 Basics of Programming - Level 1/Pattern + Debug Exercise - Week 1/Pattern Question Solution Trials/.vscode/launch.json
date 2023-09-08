@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/rkapse/OfficeWork_Ritesh_Nvidia/Learnings/C++ Learnings/Love Babber C++ Course/1 Basics of Programming - Level 1/ref material/Pattern Question Solution Trials",
+      "program": "c:/Users/rkapse/OfficeWork_Ritesh_Nvidia/Learnings/C++ Learnings/Love Babber C++ Course/1 Basics of Programming - Level 1/ref material/Pattern Question Solution Trials/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
